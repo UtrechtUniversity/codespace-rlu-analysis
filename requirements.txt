@@ -56,5 +56,5 @@ traitlets==5.9.0
 typing_extensions==4.5.0
 tzdata==2023.3
 wcwidth==0.2.6
--e git+ssh://git@github.com/UtrechtUniversity/wellwellwell.git@9334bb904e991df8d47db5a58c31754ff540a719#egg=wellwellwell
+-e git+https://github.com/UtrechtUniversity/wellwellwell.git@9334bb904e991df8d47db5a58c31754ff540a719#egg=wellwellwell
 xlsx2csv==0.8.1
